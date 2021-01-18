@@ -1,6 +1,6 @@
 # SocialGANetwork
 
-This repo contains a project to generate social media content by leveraging Generalised Adversarial Networks
+This repo contains a project to generate social media content by leveraging Generative Adversarial Networks
 
 ## Social Media Pages:
 **Instagram:** [https://www.instagram.com/socialganetwork/](https://www.instagram.com/socialganetwork/)
